@@ -13,4 +13,4 @@ nie wiem dużo małych kalendarzy
 
 [Olimpiady](https://witkacysu.github.io/olimpiady)
 
-[Inne]()
+[Inne](https://witkacysu.github.io/inne)
