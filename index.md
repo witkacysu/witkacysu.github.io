@@ -5,11 +5,12 @@ nie wiem dużo małych kalendarzy
 
 ## Kalendarze
 
-[Kalendarze ogólne](https://kalendarzwitkacy.github.io/ogolne)
+[Kalendarze ogólne](https://witkacysu.github.io/ogolne)
 
-[Witkacówka](https://kalendarzwitkacy.github.io/witkacowka)
+[Witkacówka](https://witkacysu.github.io/witkacowka)
 
-[Zawody sportowe](https://kalendarzwitkacy.github.io/zawodysportowe)
+[Zawody sportowe](https://witkacysu.github.io/zawodysportowe)
 
-[Olimpiady](https://kalendarzwitkacy.github.io/olimpiady)
-a
+[Olimpiady](https://witkacysu.github.io/olimpiady)
+
+[Inne]()
