@@ -30,6 +30,7 @@ text-align: left;
 margin: auto;
 min-width: 40%;
 width: 65%;
+min-height: 20vh;
 line-height: 100%;
 border: 3px solid green;
 padding: 1vw;
@@ -37,6 +38,9 @@ position: inherit;
 float: left;
 }
 .przyciski-kalendarza {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 margin: auto;
 padding: 700px 0;
 min-width: 15%;
@@ -55,6 +59,7 @@ margin: 1vh 0vw;
 transition-duration: 0.4s;
 cursor: pointer;
 float: right;
+
 }
 
 .button:hover {
