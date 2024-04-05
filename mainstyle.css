@@ -20,6 +20,7 @@ text-align: center;
 .kalendarz {
 margin: auto;
 width: 70%;
+min-height: 10vh;
 border: 3px solid green;
 padding: 10px;
 }
@@ -55,6 +56,9 @@ width: 60%;
 }
 .main {
 width: 60%;
+}
+.kalendarz {
+min-height: 15vh;
 }
 }
      
