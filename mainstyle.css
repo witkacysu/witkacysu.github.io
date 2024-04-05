@@ -11,14 +11,32 @@ div {
 margin:auto;
 text-align:center;
 }
-main {
+.main {
 width:100%;
 }
-header {
-background-color: #F1F1F1;
+.header {
 text-align: center;
 }
-
+.kalendarz {
+margin: auto;
+width: 70%;
+border: 3px solid green;
+padding: 10px;
+}
+.opis-kalendarza {
+margin: auto;
+width: 70%;
+border: 3px solid green;
+padding: 10px;
+position: absolute;
+}
+.przyciski-kalendarza {
+margin: auto;
+width: 3vw;
+border: 3px solid green;
+padding: 10px;
+position: absolute;
+}
 
 @media (min-width: 600px) {
 div {
