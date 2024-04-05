@@ -8,7 +8,6 @@ a {
 color: #c4a7e7;
 }
 div {
-width:100%;
 margin:auto;
 text-align:center;
 }
@@ -32,7 +31,7 @@ font-size: 1.7em;
 h1 {
 font-size: 3em;
 }
-main {
+div {
 width: 60%;
 }
 }
