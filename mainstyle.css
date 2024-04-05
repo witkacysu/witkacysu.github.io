@@ -25,17 +25,19 @@ padding: 10px;
 }
 .opis-kalendarza {
 margin: auto;
-width: 70%;
+width: 3vw;
 border: 3px solid green;
 padding: 10px;
-position: absolute;
+position: inherit;
+float: left;
 }
 .przyciski-kalendarza {
 margin: auto;
 width: 3vw;
 border: 3px solid green;
 padding: 10px;
-position: absolute;
+position: inherit;
+float: right;
 }
 
 @media (min-width: 600px) {
@@ -49,6 +51,9 @@ h1 {
 font-size: 3em;
 }
 div {
+width: 60%;
+}
+.main {
 width: 60%;
 }
 }
