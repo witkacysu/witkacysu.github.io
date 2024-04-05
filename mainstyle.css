@@ -7,7 +7,6 @@ background-color: #191724;
 a {
 color: #c4a7e7;
 }
-  
 div {
 width:60%;
 margin:auto;
@@ -21,15 +20,17 @@ text-align: center;
 
 @media (min-width: 600px) {
 div {
-width:100%;
+
 text-align:center;
 }
 body {
 font-size: 1.7em;
 }
-}
 h1 {
 font-size: 3em;
 }
-
+main {
+width: 60%;
+}
+}
      
