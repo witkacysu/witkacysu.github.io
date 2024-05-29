@@ -29,7 +29,7 @@ margin: auto;
 margin-bottom: 3vh;
 min-height: 10vh;
 height: auto;
-border: 3px solid green;
+/* border: 3px solid green; */
 padding: 3vh 2vw;
 }
 .opis-kalendarza {
