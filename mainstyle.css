@@ -17,6 +17,11 @@ width:100%;
 .header {
 text-align: center;
 }
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 .flex-container {
 width: auto;
 flex-direction: column;
