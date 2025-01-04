@@ -16,7 +16,8 @@ font-size: 1.7rem;
 margin-top: 2vh;
 }
 .main {
-width:100%;
+width:90%;
+word-wrap: break-word;
 }
 .header {
 padding-top: 2vh;
@@ -25,9 +26,9 @@ text-align: center;
 margin: 1.5vw;
 }
 .list {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+list-style-type: none;
+margin: 0;
+padding: 0;
 }
 .flex-container {
 width: auto;
@@ -107,59 +108,48 @@ transform: translate(-50%, -50%);
 text-align: center;
 margin: auto;
 }
-    .list {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-    }
-    .flex-container {
-    width: auto;
-    flex-direction: column;
-    }
-    .kalendarz {
-    display: flex;
-    flex-direction: row;
-    justify-items: center;
-    margin: auto;
-    margin-bottom: 3vh;
-    min-height: 10vh;
-    height: auto;
-    /* border: 3px solid green; */
-    padding: 3vh 2vw;
-    }
-    .opis-kalendarza {
-    text-align: left;
-    margin: auto;
-    min-width: 40%;
-    min-height: 20vh;
+.kalendarz {
+display: flex;
+flex-direction: row;
+justify-items: center;
+margin: auto;
+margin-bottom: 3vh;
+min-height: 10vh;
+height: auto;
+/* border: 3px solid green; */
+padding: 3vh 2vw;
+}
+.opis-kalendarza {
+text-align: left;
+margin: auto;
+min-width: 40%;
+min-height: 20vh;
+line-height: 100%;
+/* border: 3px solid green; */
+padding: 1vw;
+}
+.przyciski-kalendarza {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin: auto;
+min-height: 20vh;
+width: 25%;
+/* border: 3px solid green; */
+padding: 1vw;
+}
     
-    line-height: 100%;
-    /* border: 3px solid green; */
-    padding: 1vw;
-    }
-    .przyciski-kalendarza {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    min-height: 20vh;
-    width: 25%;
-    /* border: 3px solid green; */
-    padding: 1vw;
-    }
-    
-    .button {
-    background-color: #26233a; 
-    padding: 2vh 2vw;
-    text-align: center;
-    margin: 1vh 0vw;
-    transition-duration: 0.4s;
-    cursor: pointer;
-    width: 100%;
-    font-size: 100%;
-    
-    }
+.button {
+background-color: #26233a; 
+padding: 2vh 2vw;
+text-align: center;
+margin: 1vh 0vw;
+transition-duration: 0.4s;
+cursor: pointer;
+width: 100%;
+font-size: 100%;
+}
     
     
 
