@@ -118,6 +118,9 @@ top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 }
+.opis {
+width: 80%;
+}
 .header {
 text-align: center;
 margin: auto;
