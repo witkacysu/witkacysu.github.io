@@ -15,9 +15,19 @@ h1 {
 font-size: 1.7rem;
 margin-top: 2vh;
 }
+ul {
+line-height: 150%;
+list-style-type: none;
+}
 .main {
 width:90%;
 word-wrap: break-word;
+}
+.opis {
+font-size: 90%;
+width: 95%;
+max-height: 60%;
+text-align: center;
 }
 .header {
 padding-top: 2vh;
@@ -26,7 +36,11 @@ text-align: center;
 margin: 1.5vw;
 }
 .list {
-list-style-type: none;
+margin: 0;
+padding: 0;
+}
+.long-list {
+line-height: 130%;
 margin: 0;
 padding: 0;
 }
@@ -87,14 +101,14 @@ div {
 text-align:center;
 }
 body {
-font-size: 2vmax;
+font-size: 1.8rem;
 padding: 50px 25px 50px 25px;
 }
 h1 {
 font-size: 2em;
 }
 div {
-width: 60%;
+width: 80%;
 }
 .main {
 width: 70%;
